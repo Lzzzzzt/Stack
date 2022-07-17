@@ -1,6 +1,6 @@
 import './style.css'
 
-let stackNum = 0;
+let num = 0;
 
 const StackHTML = document.querySelector<HTMLDivElement>('#stack')!
 
@@ -10,7 +10,7 @@ let stack: HTMLDivElement[] = [];
 const BtnStackPush = document.querySelector<HTMLButtonElement>('#stack-push')!
 BtnStackPush.addEventListener('click', () => {
 
-    stack.push(createBlock('stack-elem', stackNum++))
+    stack.push(createBlock('stack-elem', num++))
     stack.forEach(value => {
         let flag = true
 

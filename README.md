@@ -3,8 +3,6 @@
 
 预览链接: https://lzzzzzt.github.io/Stack/
 
-![image-20220717211322213](/Users/lzzzt/Library/Application Support/typora-user-images/image-20220717211322213.png)
-
 ## 实现
 
 ```typescript

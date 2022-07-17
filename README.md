@@ -1,6 +1,8 @@
 # Stack
 一个简单的、实现了简单动画的栈的可视化界面
 
+预览链接: https://lzzzzzt.github.io/Stack/
+
 ![image-20220717211322213](/Users/lzzzt/Library/Application Support/typora-user-images/image-20220717211322213.png)
 
 ## 实现
